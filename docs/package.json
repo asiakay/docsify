@@ -1,0 +1,14 @@
+{
+  "name": "docs",
+  "version": "1.0.0",
+  "description": "> # Memes & LOLZ ![My Dad couldn't find Google Chrome, so I did this...](https://qph.fs.quoracdn.net/main-qimg-99ce93e5a97b2e3dcdf89945c61528d7) [Source: Quora.com](https://qr.ae/pGyson)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^4.0.2"
+  }
+}

@@ -1,0 +1,3 @@
+[Apple](https://www.apple.com/careers/us/)  
+    - [Join us. Be you.](https://www.apple.com/careers/global/media/acvideo/2021/index/redesign/us/hero/careers-index-cc-us-2021_1280x720h.mp4) 
+        - [Careers at Apple](https://www.apple.com/careers/us/work-at-apple.html) "Your work is as meaningful to us as it is to you.", "Work with others who share your passion", " We’re experts leading experts: hardware experts lead hardware, software experts lead software, and design experts lead design.", "...those with the most expertise in an area of work have decision rights for that area."
